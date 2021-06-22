@@ -1,5 +1,5 @@
 ## Code Library by Utkarsh Koppikar
-1. Find minimum
+ 1. Find minimum
  2. Minimum changes from one string to another
  3. Swap characters of a string
  4. Next Lexicographic Permutation of a String
@@ -92,8 +92,5 @@
  94. Insertion Sort
  95. Insertion sort
  96. Stack manipularion
- 97. Swap
- 98. Fibonacci Print with loops
- 99. Initialise Union-Find
- 100. Find function
- 101. Union function
+ 97. Swap    98. Fibonacci Print with loops
+ 99. Initialise Union-Find   100. Find function   101. Union function
