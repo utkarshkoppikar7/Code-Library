@@ -1,7 +1,4 @@
-# Code-Library
-
 ## Code Library by Utkarsh Koppikar
-
 1. Find minimum
  2. Minimum changes from one string to another
  3. Swap characters of a string
